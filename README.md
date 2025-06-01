@@ -2,6 +2,8 @@
 
 The app integrates accessibility features such as voice guidance, enabling users to hear the detected banknote value aloud. Whether shopping or receiving cash, RupiSight ensures that visually impaired individuals can confidently and efficiently identify their money, promoting greater financial inclusion.
 
+![Poster_KoTA_102](https://github.com/user-attachments/assets/e61a7af0-5895-42ea-9e34-cbaa94f453fd)
+
 Key Features:
 
 1. Real-time banknote detection using the phone's camera.
