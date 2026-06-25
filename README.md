@@ -1,6 +1,6 @@
 **RupiSight** was developed as part of our Final Project (known as Tugas Besar in Indonesia) to fulfill the graduation requirements for our undergraduate degree. By using the phone’s camera and image recognition technology, the app can detect and announces the denomination of banknotes, with hope to help visually impaired people identify rupiah banknote and ease daily physical transaction.
 
-The app integrates accessibility features such as voice guidance, enabling users to hear the detected banknote value aloud. Whether shopping or receiving cash, RupiSight ensures that visually impaired individuals can confidently and efficiently identify their money, promoting greater financial inclusion.
+The app uses tensorflow library and a self trained ML Model that can be hosted on the local Android phone. It also integrates accessibility features such as voice guidance, enabling users to hear the detected banknote value aloud. Whether shopping or receiving cash, RupiSight ensures that visually impaired individuals can confidently and efficiently identify their money, promoting greater financial inclusion.
 
 Key Features:
 
